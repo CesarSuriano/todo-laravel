@@ -1,8 +1,8 @@
-# Laravel Quickstart - Basic
+# Lista de tarefas com Laravel
 
-## Quck Installation
+## Instalação
 
-    git clone https://github.com/laravel/quickstart-basic quickstart
+    git clone https://github.com/CesarSuriano/todo-laravel.git quickstart
 
     cd quickstart
 
@@ -12,4 +12,4 @@
 
     php artisan serve
 
-[Complete Tutorial](https://laravel.com/docs/5.2/quickstart)
+[Tutorial completo](http://laravel.artesaos.org/docs/master/quickstart)
