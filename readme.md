@@ -12,4 +12,4 @@
 
     php artisan serve
 
-[Tutorial completo](http://laravel.artesaos.org/docs/master/quickstart)
+[Tutorial completo](http://laravel.artesaos.org/docs/master/quickstart)  
